@@ -189,15 +189,12 @@
 
 // let buba =cards.filter(item=>item.cardSuit === "diamonds")
 // console.log(buba)
-
-// let tref =cards.filter(function (number){
-//     return number.value >= 9
-// })
-// console.log(tref)
-
-//     return value.monthDuration > 5;
 //
 
+// cards.map((valued)=>{
+//     if (valued.value > 9 || valued['value'][1])  //говнокод, насколько понимаю
+//         console.log(valued)
+// })
 
 // Додатково по reduce
 // Взяти описану колоду карт, та за допомоги редюсу попакувати всі карти по "мастях" в об'єкт
